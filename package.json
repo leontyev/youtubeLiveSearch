@@ -1,0 +1,19 @@
+{
+  "name": "youtube_live_search",
+  "version": "1.0.0",
+  "description": "youtube live search (react, es6, scss, webpack)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leontyev/youtubeLiveSearch.git"
+  },
+  "author": "Alexey Leontyev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leontyev/youtubeLiveSearch/issues"
+  },
+  "homepage": "https://github.com/leontyev/youtubeLiveSearch"
+}
